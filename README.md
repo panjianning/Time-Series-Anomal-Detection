@@ -4,7 +4,8 @@
 * [Airbnb 支付平台如何进行异常检测](https://www.infoq.cn/article/2016%2F03%2FAirbnb-FFT-anomaly-detection)
 * [美团：外卖订单量预测异常报警模型实践](https://tech.meituan.com/order_holtwinter.html)
 * [360: 异常检测机制](https://www.opsdev.cn/post/anomaly_detection.html)
-
+* [滴滴：滴滴出行海量数据场景下的
+智能监控与故障定位实践](https://pic.huodongjia.com/ganhuodocs/2017-12-12/1513049396.23.pdf)
 ## Paper
 ### VAE
 * 2015 [Variational Autoencoder based Anomaly Detection
