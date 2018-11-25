@@ -1,6 +1,8 @@
 # Time-Series-Anomal-Detection
 ## Article
 * [SLS机器学习介绍（03）：时序异常检测建模](https://yq.aliyun.com/articles/669164)
+* [Airbnb 支付平台如何进行异常检测](https://www.infoq.cn/article/2016%2F03%2FAirbnb-FFT-anomaly-detection)
+* [美团：外卖订单量预测异常报警模型实践](https://tech.meituan.com/order_holtwinter.html)
 
 ## Paper
 ### VAE
