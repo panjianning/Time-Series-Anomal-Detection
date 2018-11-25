@@ -23,3 +23,6 @@ Nonparametric Dynamic Thresholding](https://arxiv.org/pdf/1802.04431.pdf)
 ### Hierarchical Temporal Memory
 * 2017 [Unsupervised real-time anomaly detection for streaming data](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
 
+
+## 其它
+* [Holt-Winters](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
