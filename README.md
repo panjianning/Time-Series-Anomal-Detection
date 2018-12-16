@@ -26,3 +26,6 @@ Nonparametric Dynamic Thresholding](https://arxiv.org/pdf/1802.04431.pdf)
 
 ## 其它
 * [Holt-Winters](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
+
+### 根因分析
+* [如何实现多维智能监控？--AI运维的实践探索【一】](https://segmentfault.com/a/1190000012325348)
