@@ -6,6 +6,7 @@
 * [360: 异常检测机制](https://www.opsdev.cn/post/anomaly_detection.html)
 * [滴滴：滴滴出行海量数据场景下的
 智能监控与故障定位实践](https://pic.huodongjia.com/ganhuodocs/2017-12-12/1513049396.23.pdf)
+* [腾讯:AI 时代下的海量业务智能监控实践](https://cloud.tencent.com/developer/article/1029786)
 ## Paper
 ### VAE
 * 2015 [Variational Autoencoder based Anomaly Detection
